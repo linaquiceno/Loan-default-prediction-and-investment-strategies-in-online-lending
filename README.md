@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# Loan Default Prediction and Investment Strategies in Online Lending
+In this assignment, we will analyze data from an online lending platform, Lending Club. The goal is to develop models to predict which loans are at risk of default. Such models can then be used to devise investment strategies.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
